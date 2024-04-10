@@ -1,0 +1,38 @@
+/* Table.css */
+table {
+    width: 90%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    margin: 5%;
+  }
+  
+  th, td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+    width: 20%;
+  }
+  
+  input[type="text"]{
+    width: 100%;
+    padding: 6px;
+  }
+  
+  button {
+    background-color: rosybrown;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 10px;
+  }
+  
+  button:hover {
+    background-color: #a0458c;
+  }
+  
